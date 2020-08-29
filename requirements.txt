@@ -1,0 +1,5 @@
+coloredlogs
+hidapi
+co2meter
+click
+coloredlogs
