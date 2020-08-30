@@ -1,0 +1,4 @@
+flask
+hidapi
+co2meter
+prometheus_client
